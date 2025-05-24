@@ -9,10 +9,7 @@ Stay tuned for the latest updates and tutorials on using and customizing your ma
 
 ## Recent Posts
 
-- [Getting Started with Your Macropad](posts/getting-started)
-- [Customizing Keybindings](posts/customizing-keybindings)
-- [Advanced Macropad Hacks](posts/advanced-hacks)
-
+- [What exactly is all this?](sections/what-is-this)
 ## Categories
 
 - [Beginner Guides](categories/beginner)

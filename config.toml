@@ -18,3 +18,12 @@ highlight_code = true
 [extra]
 # Put all your custom variables here
 mode = "dark"
+
+[extra.poly]
+menu_order = [
+    "_index.md",
+    "_posts.md",
+    "_projects.md",
+    "_reviews.md",
+    "_about.md"
+]
